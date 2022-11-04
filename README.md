@@ -29,3 +29,4 @@ enum AppStoryboard : String {
 //https://gist.github.com/cscouto/fb49c0e8dc48c266ec76ee198c247a07
 //https://medium.com/swift-productions/swift-tableview-github-jobs-json-7e35f7b4c13f
 //https://www.kodeco.com/10787749-creating-a-custom-calendar-control-for-ios
+// https://gurdeep060289.medium.com/clean-code-for-multiple-storyboards-c64eb679dbf6
